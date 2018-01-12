@@ -1,2 +1,3 @@
 # AI
-2017Fall Graduate class
+2017Spring Graduate class
+Use several AI ways to realize the game Pac-man
